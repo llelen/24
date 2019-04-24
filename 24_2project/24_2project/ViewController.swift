@@ -27,8 +27,8 @@ class ViewController: UIViewController {
     }
     
     //Do what you can,
-    with what you have,
-    where you are.
+    //with what you have,
+    //where you are.
     @IBAction func Paint(_ sender: UIButton) {
         
         let str = "Be Brave! \n Type Something!"
